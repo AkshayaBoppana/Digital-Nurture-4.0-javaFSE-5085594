@@ -1,2 +1,4 @@
 *.log
 log/
+hello.xml.bak
+hello.xml.orig
